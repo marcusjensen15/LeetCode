@@ -14,3 +14,21 @@
 //
 //     return output;
 // };
+
+
+// var smallerNumbersThanCurrent = function(nums) {
+//
+//     let output = [];
+//
+//     for(i=0; i<nums.length;i++){
+//         counter = 0;
+//         for(j=0;j<nums.length;j++){
+//             if(nums[i] > nums[j]){
+//                 counter += 1;
+//             }
+//         }
+//         output.push(counter);
+//     }
+//     return output;
+//
+// };
